@@ -7,7 +7,8 @@
 ### About Me 👋
 
 
-- 🌱 I'm currently learning Fullstack Web Developer (HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACT JS, EXPRESS JS, PHP, MYSQL), FULLSCTACK DEVELOPER
+- 🌱 I'm currently learning Fullstack Web Developer =>
+-      ( HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACT JS, EXPRESS JS, PHP, MYSQL ), FULLSCTACK DEVELOPER.
 - 👯 I’m looking to collaborate on Open Source Project
 - 💬 Ask me about FullSctack Web
 - 📫 How to reach me: +62822-6742-9797 (Whatsapp)
