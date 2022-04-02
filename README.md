@@ -11,6 +11,6 @@
 - 👯 I’m looking to collaborate on Open Source Project
 - 💬 Ask me about FullSctack Web
 - 📫 How to reach me: +62822-6742-9797 (Whatsapp)
-- I'm portofolio : https://nasdev07.github.io/nasruddin.github.io/
+- 🚀 I'm portofolio : https://nasdev07.github.io/nasruddin.github.io/
 
 
