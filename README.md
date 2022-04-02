@@ -7,7 +7,7 @@
 ### About Me 👋
 
 
-- 🌱 I'm currently learning Fullstack Web Developer =>
+- 🌱 I'm currently learning Fullstack Web Developer : 
 -      ( HTML, CSS, BOOTSTRAP, JAVASCRIPT, REACT JS, EXPRESS JS, PHP, MYSQL ), FULLSCTACK DEVELOPER.
 - 👯 I’m looking to collaborate on Open Source Project
 - 💬 Ask me about FullSctack Web
