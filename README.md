@@ -13,7 +13,7 @@
 - 💬 Ask me about FullSctack Web
 - 🚀 I'm portofolio : https://nasdev07.github.io/nasruddin.github.io/
 - 📫 How to reach me: +62822-6742-9797 ( Whatsapp )
-- ✔ Sosial Media : ( IG : nas_staiko ) 
+- ✔ Sosial Media : ( IG : https://www.instagram.com/nas_staiko/ ) 
 -
 
 
