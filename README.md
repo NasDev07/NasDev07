@@ -1,7 +1,7 @@
 
 <h1 align="center"> Kamu & AKU <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=4052F7&center=true&vCenter=true&lines=Tidak+Perlu+meniru+gaya+mereka%2C;+apa+adanya+aja%2C++yang+penting+tak+;+menyusahkan+orang+tua+%3A))](https://git.io/typing-svg"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=4000&color=4052F7&center=true&vCenter=true&lines=Tidak+Perlu+meniru+gaya+mereka%2C;+apa+adanya+aja%2C++yang+penting+tak+;+menyusahkan+orang+tua+%3A"></a>
 </p>
 
 ### About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
