@@ -14,10 +14,10 @@
 - 🚀 I'm portofolio : https://nasdev07.github.io/nasruddin.github.io/
 - 📫 How to reach me: +62822-6742-9797 ( Whatsapp )
 - ✔ Sosial Media : ( IG : https://www.instagram.com/nas_staiko/ ) 
-- 
+ 
 
 <p align="center">
-<img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b761107d5027633f745c53cebf3eb4b3fe4c6ec6901e1&rid=giphy.gif&ct=g" width="50%" height="300"  frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b761107d5027633f745c53cebf3eb4b3fe4c6ec6901e1&rid=giphy.gif&ct=g" width="50%" height="270"  frameBorder="0" class="giphy-embed" allowFullScreen></img>
  </p>
 
 
