@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi , I'm NASRUDDIN.DEV <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=F7F7F7&vCenter=true&multiline=true&width=513&height=100&lines=Hidup+ini+tidak+selalu+tentang+cinta;Karena+ada+cita2+yg+harus+kuperjuangkan;dan+orang+tua+yang+perlu+dibahagiakan"></a>
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=18&duration=3000&color=F7F7F7&vCenter=true&multiline=true&width=513&height=100&lines=Hidup+ini+tidak+selalu+tentang+cinta;Karena+ada+cita2+yg+harus+kuperjuangkan;dan+orang+tua+yang+perlu+dibahagiakan%F0%9F%98%8A"></a>
 </p>
 
 ### About Me <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
