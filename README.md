@@ -16,10 +16,6 @@
 - ✔ Sosial Media : ( IG : https://www.instagram.com/nas_staiko/ ) 
 
 
-### Animasi <video src="https://media.istockphoto.com/videos/young-man-mobile-developer-writes-program-code-on-a-computer-work-in-video-id1307182813" width="100%" controls>
-<source src="mov_bbb.mp4" type="video/mp4">
-</video>
-
 
 
 
