@@ -14,6 +14,9 @@
 - 🚀 I'm portofolio : https://nasdev07.github.io/nasruddin.github.io/
 - 📫 How to reach me: +62822-6742-9797 ( Whatsapp )
 - ✔ Sosial Media : ( IG : https://www.instagram.com/nas_staiko/ ) 
--
+
+
+<video src="https://media.istockphoto.com/videos/young-man-mobile-developer-writes-program-code-on-a-computer-work-in-video-id1307182813" width="100%">
+
 
 
