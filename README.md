@@ -16,6 +16,8 @@
 - ✔ Sosial Media : ( IG : https://www.instagram.com/nas_staiko/ ) 
 - 
 
-<img align="center" src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b761107d5027633f745c53cebf3eb4b3fe4c6ec6901e1&rid=giphy.gif&ct=g" width="100%" height="350"  frameBorder="0" class="giphy-embed" allowFullScreen></img>
+<p align="center">
+<img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b761107d5027633f745c53cebf3eb4b3fe4c6ec6901e1&rid=giphy.gif&ct=g" width="50%" height="350"  frameBorder="0" class="giphy-embed" allowFullScreen></img>
+ </p>
 
 
