@@ -21,6 +21,3 @@
 <img src="https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=790b761107d5027633f745c53cebf3eb4b3fe4c6ec6901e1&rid=giphy.gif&ct=g" width="50%" height="270"  frameBorder="0" class="giphy-embed" allowFullScreen></img>
  </p>
 
-
-![Screenshot_3](https://user-images.githubusercontent.com/71059706/169186460-4ab0ab36-d0cd-42a2-a184-6e1397fdd2d6.png)
-
