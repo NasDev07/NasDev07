@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on Open Source Project
 - 💬 Ask me about FullSctack Web
 - 🚀 I'm portofolio : https://nasdev07.github.io/nasruddin.github.io/
-- 📘 CV : https://www.cakeresume.com/nas-staiko
+- 📘 CV : https://nasruddin.showwcase.com/
 - 📫 How to reach me: +62822-6742-9797 ( Whatsapp )
 - ✔ Sosial Media : ( IG : https://www.instagram.com/nas_staiko/ ) 
  
