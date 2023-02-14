@@ -8,7 +8,6 @@
 
 
 - 🌱 I'm currently learning Fullstack Web Developer : 
--      ( HTML, CSS, BOOTSTRAP, JAVASCRIPT,jQuery, Vue JS, Node JS, PHP, Laravel, MYSQL ), FULLSCTACK DEVELOPER.
 - 👯 I’m looking to collaborate on Open Source Project
 - 💬 Ask me about FullSctack Web
 - 🚀 I'm portofolio : https://nasruddin.notion.site/Nasruddin-6ec9e0942b3f4c1494692740023789c5
