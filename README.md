@@ -11,5 +11,4 @@
 - 👯 I’m looking to collaborate on Open Source Project
 - 💬 Ask me about FullSctack Web
 - 🚀 I'm portofolio : https://nasruddin.notion.site/Nasruddin-6ec9e0942b3f4c1494692740023789c5
-- 📫 How to reach me: https://linktr.ee/nasdev
 - ✔ Sosial Media : ( IG : https://www.instagram.com/nas_staiko/ ) 
