@@ -11,7 +11,10 @@
 - 👯 I’m looking to collaborate on Open Source Project
 - 💬 Ask me about FullSctack Web
 - 🚀 I'm portofolio : https://nasruddin.notion.site/Nasruddin-6ec9e0942b3f4c1494692740023789c5
-- ✔ Sosial Media : ( IG : https://www.instagram.com/nas_staiko/ ) 
+
+<a href="https://www.linkedin.com/in/nas-ruddin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nas-ruddin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/nas_staiko/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nas_staiko" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC2f0vQuv6j7FHySx-XCktdw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="nasstaiko" height="30" width="40" /></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NasDev07&show_icons=true&locale=en&layout=compact" alt="NasDev07" /></p>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NasDev07&show_icons=true&locale=en" alt="NasDev07" /></p>
