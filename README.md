@@ -16,5 +16,19 @@
 <a href="https://www.instagram.com/nas_staiko/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nas_staiko" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC2f0vQuv6j7FHySx-XCktdw" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="nasstaiko" height="30" width="40" /></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NasDev07&show_icons=true&locale=en&layout=compact" alt="NasDev07" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NasDev07&show_icons=true&locale=en" alt="NasDev07" /></p>
+## Languages I Know:
+
+<p align="left"> <a href="https://github.com/nasdev07"><img src="https://skillicons.dev/icons?i=vscode,css,html,js,bots,github,nodejs,laravel,mysql"> </a> </p>
+
+## My Stats:
+<p align="center">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=nasdev07&hide_border=true&show_icons=true&count_private=true&theme=gruvbox&bg_color=151515">
+</p>
+
+## Activity On GitHub:
+
+<p align="center">
+  <a href="https://github.com/nasdev07">      
+<img title="stats" alt="streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nasdev07&theme=dark&hide_border=true&stroke=f53b3b"/>
+</a> 
+</p>
