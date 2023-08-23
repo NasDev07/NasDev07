@@ -16,8 +16,5 @@
 <a href="https://www.instagram.com/nas_staiko/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="nas_staiko" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UC2f0vQuv6j7FHySx-XCktdw" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="nasstaiko" height="30" width="40" /></a>
 
-<div style="display: flex; align-items: center;">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NasDev07&show_icons=true&locale=en&layout=compact" alt="NasDev07" />
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=NasDev07&show_icons=true&locale=en" alt="NasDev07" />
-</div>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NasDev07&show_icons=true&locale=en&layout=compact" alt="NasDev07" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=NasDev07&show_icons=true&locale=en" alt="NasDev07" /></p>
