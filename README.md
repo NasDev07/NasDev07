@@ -20,6 +20,9 @@
 
 <p align="left"> <a href="https://github.com/nasdev07"><img src="https://skillicons.dev/icons?i=vscode,css,html,js,bootstrap,github,nodejs,react,express,nextjs,php,laravel,mysql,firebase,mongodb"> </a> </p>
 
+## Tools I use:
+<p align="left"> <a href="https://github.com/nasdev07"><img src="https://skillicons.dev/icons?i=vscode,figma,photoshop,canvas"> </a> </p>
+
 ## My Stats:
 <p align="center">
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=nasdev07&hide_border=true&show_icons=true&count_private=true&theme=gruvbox">
