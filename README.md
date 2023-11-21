@@ -21,7 +21,7 @@
 <p align="left"> <a href="https://github.com/nasdev07"><img src="https://skillicons.dev/icons?i=vscode,css,html,js,bootstrap,github,nodejs,react,express,nextjs,php,laravel,mysql,firebase,mongodb"> </a> </p>
 
 ## Tools I use:
-<p align="left"> <a href="https://github.com/nasdev07"><img src="https://skillicons.dev/icons?i=vscode,figma,photoshop,canvas"> </a> </p>
+<p align="left"> <a href="https://github.com/nasdev07"><img src="https://skillicons.dev/icons?i=vscode,figma,photoshop"> </a> </p>
 
 ## My Stats:
 <p align="center">
