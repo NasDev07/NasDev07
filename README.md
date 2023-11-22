@@ -18,7 +18,7 @@
 
 ## Languages I Know:
 
-<p align="left"> <a href="https://github.com/nasdev07"><img src="https://skillicons.dev/icons?i=css,html,js,bootstrap,github,nodejs,react,express,nextjs,php,laravel,mysql,firebase,mongodb,flutter"> </a> </p>
+<p align="left"> <a href="https://github.com/nasdev07"><img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,github,nodejs,react,express,nextjs,php,laravel,mysql,firebase,mongodb,flutter"> </a> </p>
 
 ## Tools I use:
 <p align="left"> <a href="https://github.com/nasdev07"><img src="https://skillicons.dev/icons?i=vscode,figma,photoshop"> </a> </p>
