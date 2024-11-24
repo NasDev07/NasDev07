@@ -10,7 +10,6 @@
 - 🌱 I'm currently learning Fullstack Web Developer : 
 - 👯 I’m looking to collaborate on Open Source Project
 - 💬 Ask me about FullSctack Web
-- 🚀 I'm portofolio : http://itgeniusaceh.42web.io/
 - ✉️ You can contact me at nasruddin20182019@gmail.com
 
 <a href="https://www.linkedin.com/in/nas-ruddin/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nas-ruddin" height="30" width="40" /></a>
