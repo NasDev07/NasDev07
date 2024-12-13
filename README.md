@@ -29,16 +29,21 @@
     <img alt="CSS" src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge">
     <img alt="JavaScript" src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge">
     <img alt="PHP" src="https://custom-icon-badges.demolab.com/badge/PHP-777BB4.svg?logo=php&logoColor=white&style=for-the-badge">
-    <img alt="TypeScript" src="https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white&style=for-the-badge">
+    <img alt="Android Studio" src="https://custom-icon-badges.demolab.com/badge/Android%20Studio-3DDC84.svg?logo=android-studio&logoColor=white&style=for-the-badge">
+    <img alt="Flutter" src="https://custom-icon-badges.demolab.com/badge/Flutter-02569B.svg?logo=flutter&logoColor=white&style=for-the-badge">
   </p>
 
-  <h3>🧰 Frameworks and Libraries</h3>
+<h3>🧰 Frameworks and Libraries</h3>
   <p>
     <img alt="React" src="https://custom-icon-badges.demolab.com/badge/React-61DAFB.svg?logo=react&logoColor=black&style=for-the-badge">
     <img alt="Next.js" src="https://custom-icon-badges.demolab.com/badge/Next.js-000000.svg?logo=next.js&logoColor=white&style=for-the-badge">
     <img alt="Laravel" src="https://custom-icon-badges.demolab.com/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white&style=for-the-badge">
     <img alt="Node.js" src="https://custom-icon-badges.demolab.com/badge/Node.js-339933.svg?logo=node.js&logoColor=white&style=for-the-badge">
     <img alt="Express.js" src="https://custom-icon-badges.demolab.com/badge/Express.js-000000.svg?logo=express&logoColor=white&style=for-the-badge">
+    <img alt="jQuery" src="https://custom-icon-badges.demolab.com/badge/jQuery-0769AD.svg?logo=jquery&logoColor=white&style=for-the-badge">
+    <img alt="Ajax" src="https://custom-icon-badges.demolab.com/badge/Ajax-4B8BF5.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xNiAxNnYtM2MwLTMuMzEtMi42OS02LTYtNkg5VjRsLTUgNCA1IDRWOWgxYzIuMjEgMCA0IDEuNzkgNCA0djNIMTZ6Ii8+PC9zdmc+&style=for-the-badge">
+    <img alt="Bootstrap" src="https://custom-icon-badges.demolab.com/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white&style=for-the-badge">
+    <img alt="Tailwind CSS" src="https://custom-icon-badges.demolab.com/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwindcss&logoColor=white&style=for-the-badge">
   </p>
 
   <h3>🗄️ Databases and Cloud Services</h3>
