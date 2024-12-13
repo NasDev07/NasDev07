@@ -14,7 +14,9 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nasdev07&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile Views">
+  <a href="https://nasdev07.github.io/NasFolio/" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=nasdev07&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile Views">
+  </a>
 </p>
 
 <!-- Skill Badges -->
