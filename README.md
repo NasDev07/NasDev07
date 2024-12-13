@@ -1,72 +1,100 @@
-<h1 align="center">Hi , I'm NASRUDDIN.DEV 👋</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=25&pause=1000&color=F7D12E&center=true&vCenter=true&width=435&lines=FullStack+Web+Developer;Open+Source+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" /></a>
-</p>
-
 <div align="center">
   
-  📊 **My GitHub Stats**
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nasdev07&show_icons=true&theme=gruvbox&hide_border=true)
-  
-  📈 **Top Languages**
-  
-  ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nasdev07&layout=compact&langs_count=8&theme=gruvbox&hide_border=true)
-  
-  🔥 **Streak Stats**
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nasdev07&theme=gruvbox&hide_border=true)
+  <!-- Custom Banner Header -->
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17,18,19,20&height=300&section=header&text=Nasruddin.Dev&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=51&descAlign=62)
+
 </div>
 
-## 🚀 About Me
+<!-- Introduction -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=35&duration=4000&pause=1000&color=2E8CF7&center=true&vCenter=true&repeat=false&width=650&lines=%F0%9F%91%8B+Welcome+to+my+creative+coding+space!" alt="Typing SVG" />
+  </a>
+</div>
 
-- 🌱 Currently mastering **Full Stack Web Development**
-- 👯 Looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **Full Stack Development**
-- 📫 Reach me at: **nasruddin20182019@gmail.com**
+<!-- Profile Views Counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nasdev07&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile Views">
+</p>
 
-## 🤝 Connect with Me
+<!-- Skill Badges -->
+<details open> 
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+  <!-- Tech Stack -->
+  <h3>👨‍💻 Programming and Markup Languages</h3>
+  <p>
+    <img alt="HTML" src="https://custom-icon-badges.demolab.com/badge/HTML5-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge">
+    <img alt="CSS" src="https://custom-icon-badges.demolab.com/badge/CSS3-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge">
+    <img alt="JavaScript" src="https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge">
+    <img alt="PHP" src="https://custom-icon-badges.demolab.com/badge/PHP-777BB4.svg?logo=php&logoColor=white&style=for-the-badge">
+    <img alt="TypeScript" src="https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white&style=for-the-badge">
+  </p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nas-ruddin/" target="_blank">
+  <h3>🧰 Frameworks and Libraries</h3>
+  <p>
+    <img alt="React" src="https://custom-icon-badges.demolab.com/badge/React-61DAFB.svg?logo=react&logoColor=black&style=for-the-badge">
+    <img alt="Next.js" src="https://custom-icon-badges.demolab.com/badge/Next.js-000000.svg?logo=next.js&logoColor=white&style=for-the-badge">
+    <img alt="Laravel" src="https://custom-icon-badges.demolab.com/badge/Laravel-FF2D20.svg?logo=laravel&logoColor=white&style=for-the-badge">
+    <img alt="Node.js" src="https://custom-icon-badges.demolab.com/badge/Node.js-339933.svg?logo=node.js&logoColor=white&style=for-the-badge">
+    <img alt="Express.js" src="https://custom-icon-badges.demolab.com/badge/Express.js-000000.svg?logo=express&logoColor=white&style=for-the-badge">
+  </p>
+
+  <h3>🗄️ Databases and Cloud Services</h3>
+  <p>
+    <img alt="MongoDB" src="https://custom-icon-badges.demolab.com/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white&style=for-the-badge">
+    <img alt="MySQL" src="https://custom-icon-badges.demolab.com/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white&style=for-the-badge">
+    <img alt="Firebase" src="https://custom-icon-badges.demolab.com/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black&style=for-the-badge">
+  </p>
+</details>
+
+<!-- GitHub Stats -->
+<details open> 
+  <summary><h2>📊 GitHub Stats and Activity</h2></summary>
+
+  <h3>🔥 Contribution Streak</h3>
+  <p>
+    <a href="https://github.com/nasdev07/github-readme-streak-stats">
+      <img title="🔥 Streak Stats" alt="Nasruddin's streak" src="https://streak-stats.demolab.com/?user=nasdev07&theme=monokai-metallian&hide_border=true"/>
+    </a>
+  </p>
+
+  <h3>💻 GitHub Profile Stats</h3>
+  <p>
+    <a href="https://github.com/nasdev07/github-readme-stats">
+      <img alt="Nasruddin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nasdev07&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    </a>
+    <a href="https://github.com/nasdev07/github-readme-stats">
+      <img alt="Nasruddin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nasdev07&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
+    </a>
+  </p>
+</details>
+
+<!-- Activity Graph -->
+<details open>
+  <summary><h2>📈 Contribution Graph</h2></summary>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img alt="Nasruddin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=nasdev07&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  </a>
+</details>
+
+<!-- Connection Section -->
+<div align="center">
+  <h2>🤝 Let's Connect</h2>
+  <a href="https://www.linkedin.com/in/nas-ruddin/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.instagram.com/nas_staiko/" target="_blank">
+  <a href="mailto:nasruddin20182019@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.instagram.com/nas_staiko/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.youtube.com/channel/UC2f0vQuv6j7FHySx-XCktdw" target="_blank">
+  <a href="https://www.youtube.com/channel/UC2f0vQuv6j7FHySx-XCktdw">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
-</p>
+</div>
 
-## 💻 Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express"/>
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="nextjs"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="php"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-  <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" alt="firebase"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="flutter"/>
-</p>
-
-## 🛠️ Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="vscode"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/>
-  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="photoshop"/>
-</p>
-
+<!-- Footer -->
 <div align="center">
-  <b>Thank you for visiting my profile! 🙏</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17,18,19,20&height=100&section=footer" width="100%">
 </div>
