@@ -77,7 +77,6 @@
 </details>
 
 <!-- Activity Graph -->
-🚀 Ultra Modern Dashboard Style
 <div align="center">
 📊 Developer Analytics Hub
 <table>
