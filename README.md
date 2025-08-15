@@ -77,12 +77,28 @@
 </details>
 
 <!-- Activity Graph -->
-<details open>
-  <summary><h2>📈 Contribution Graph</h2></summary>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img alt="Nasruddin's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=nasdev07&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-  </a>
-</details>
+🚀 Ultra Modern Dashboard Style
+<div align="center">
+📊 Developer Analytics Hub
+<table>
+<tr>
+<td align="center">
+🔥 Hot Streak
+<br>
+<img alt="Mini Graph 1" src="https://github-readme-activity-graph.vercel.app/graph/?username=nasdev07&bg_color=ff4444&color=ffffff&line=ffff00&point=ffffff&area=true&hide_border=true&custom_title=🔥%20FIRE&height=120" />
+</td>
+<td align="center">
+❄️ Cool Zone
+<br>
+<img alt="Mini Graph 2" src="https://github-readme-activity-graph.vercel.app/graph/?username=nasdev07&bg_color=4444ff&color=ffffff&line=00ffff&point=ffffff&area=true&hide_border=true&custom_title=❄️%20ICE&height=120" />
+</td>
+</tr>
+</table>
+<!-- Main Dashboard Graph -->
+<img width="100%" alt="Dashboard Main" src="https://github-readme-activity-graph.vercel.app/graph/?username=nasdev07&bg_color=0f172a&color=22d3ee&line=f472b6&point=fbbf24&area=true&hide_border=true&custom_title=🎯%20DEVELOPER%20PERFORMANCE%20DASHBOARD%20•%20REAL-TIME%20ANALYTICS&area_color=22d3ee&height=300" />
+</div>
+
+<div align="center">
 
 <!-- Connection Section -->
 <div align="center">
