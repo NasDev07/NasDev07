@@ -14,8 +14,10 @@
 
 <!-- Profile Views Counter -->
 <p align="center">
-   I am a Web Developer & Software Engineer with expertise in building web and mobile applications. I am proficient in various programming languages, frameworks, and modern tools that      support the development of responsive, efficient, and user-focused systems.
+  I am a Web Developer & Software Engineer with expertise in building web and mobile applications. I am proficient in various programming languages, frameworks, and modern tools that      support the development of responsive, efficient, and user-focused systems.
   </br>
+</p>
+<p align="center">
   <a href="https://nasdev07.github.io/NasFolio/" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=nasdev07&style=for-the-badge&color=0e75b6&label=Profile+Views" alt="Profile Views">
   </a>
