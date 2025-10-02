@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Custom Banner Header -->
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17,18,19,20&height=300&section=header&text=Nasruddin.Dev&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=51&descAlign=62)
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,15,16,17,18,19,20&height=300&section=header&text=ANAS.DEV&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Open%20Source%20Enthusiast&descAlignY=51&descAlign=62)
 
 </div>
 
