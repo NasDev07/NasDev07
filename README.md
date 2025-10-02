@@ -58,45 +58,6 @@
   </p>
 </details>
 
-<!-- GitHub Stats -->
-<details open> 
-  <summary><h2>📊 GitHub Stats and Activity</h2></summary>
-
-  <h3>🔥 Contribution Streak</h3>
-  <p>
-    <a href="https://github.com/nasdev07/github-readme-streak-stats">
-      <img title="🔥 Streak Stats" alt="Nasruddin's streak" src="https://streak-stats.demolab.com/?user=nasdev07&theme=monokai-metallian&hide_border=true"/>
-    </a>
-  </p>
-
-  <h3>💻 GitHub Profile Stats</h3>
-  <p>
-    <a href="https://github.com/nasdev07/github-readme-stats">
-      <img alt="Nasruddin's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=nasdev07&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-    </a>
-    <a href="https://github.com/nasdev07/github-readme-stats">
-      <img alt="Nasruddin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nasdev07&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
-    </a>
-  </p>
-</details>
-
-<!-- Activity Graph -->
-<div align="center">
-📊 Developer Analytics Hub
-<table>
-<tr>
-<td align="center">
-🔥 Hot Streak
-<br>
-<img alt="Mini Graph 1" src="https://github-readme-activity-graph.vercel.app/graph/?username=nasdev07&bg_color=ff4444&color=ffffff&line=ffff00&point=ffffff&area=true&hide_border=true&custom_title=🔥%20FIRE&height=120" />
-</td>
-<td align="center">
-❄️ Cool Zone
-<br>
-<img alt="Mini Graph 2" src="https://github-readme-activity-graph.vercel.app/graph/?username=nasdev07&bg_color=4444ff&color=ffffff&line=00ffff&point=ffffff&area=true&hide_border=true&custom_title=❄️%20ICE&height=120" />
-</td>
-</tr>
-</table>
 <!-- Main Dashboard Graph -->
 <img width="100%" alt="Dashboard Main" src="https://github-readme-activity-graph.vercel.app/graph/?username=nasdev07&bg_color=0f172a&color=22d3ee&line=f472b6&point=fbbf24&area=true&hide_border=true&custom_title=🎯%20DEVELOPER%20PERFORMANCE%20DASHBOARD%20•%20REAL-TIME%20ANALYTICS&area_color=22d3ee&height=300" />
 </div>
