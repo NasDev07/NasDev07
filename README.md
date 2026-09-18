@@ -24,9 +24,7 @@
 </p>
 
 <!-- Skill Badges -->
-<details open> 
-  <details open>
-  <summary><h2>🛠️ Tech Stack & Tools</h2></summary>
+<details open>
 
   <h3>🌐 Frontend Development</h3>
   <p>
@@ -85,14 +83,6 @@
   </p>
 
 </details>
-</details>
-
-<!-- Main Dashboard Graph -->
-<img
-  width="100%"
-  alt="GitHub Activity Graph"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=nasdev07&theme=react-dark&hide_border=true&area=true&custom_title=Developer%20Activity%20Graph"
-/>
 
 <div align="center">
 
